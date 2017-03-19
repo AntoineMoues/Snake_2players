@@ -1,0 +1,48 @@
+{
+  "name": "builder-static-website",
+  "version": "1.0.0",
+  "description": "scripts to build statics websites",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joZephhh/static-template.git"
+  },
+  "keywords": [
+    "builder",
+    "front-end",
+    "website",
+    "apps"
+  ],
+  "author": "Joseph Quercia & Antoine Moues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joZephhh/static-template/issues"
+  },
+  "homepage": "https://github.com/joZephhh/static-template",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "browser-sync": "^2.18.8",
+    "browsersync": "0.0.1-security",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2",
+    "lazypipe": "^1.0.1"
+  },
+  "dependencies": {
+    "gulp-babel": "^6.1.2"
+  }
+}
