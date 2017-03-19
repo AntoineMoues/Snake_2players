@@ -1,4 +1,4 @@
-# [Snake 2-players]()
+# [Snake 2-players](https://antoinemoues.github.io/Snake_2players/)
 
 A 2-players snake created for class
 
